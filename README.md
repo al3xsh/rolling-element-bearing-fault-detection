@@ -8,7 +8,7 @@ Rolling-element bearings are one of the most common components in industrial mac
 
 A typical cartridge bearing looks like:
 
-![alt text](./figures/cartridge_bearing.jpg "Cartridge Bearing")
+<img src="./figures/cartridge_bearing.jpg" alt="Cartridge Bearing" width="200"/>
 
 The key elements in rolling-element bearings are:
 
@@ -30,15 +30,15 @@ In this work we propose a deep learning based intelligent fault diagnosis system
 
 Our proposed system architecture is:
 
-![alt text](./figures/graphical_abstract_sensors.png "The RNN-WDCNN architecture")
+<img src="./figures/graphical_abstract_sensors.png" alt="The RNN-WDCNN architecture" width="750"/>
 
 Our results on domain adaptation are:
 
-![alt text](./figures/fig_8.png "The RNN-WDCNN architecture")
+<img src="./figures/fig_8.png" alt="Load adaptation results" width="500"/>
 
 and our results for noise rejection are:
 
-![alt text](./figures/fig_12.png "The RNN-WDCNN architecture")
+<img src="./figures/fig_12.png" alt="Noise rejection results" width="500"/>
 
 ## To do:
 
