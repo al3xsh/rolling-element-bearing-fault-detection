@@ -183,7 +183,7 @@ model.compile(loss='categorical_crossentropy', optimizer=opt, metrics=['acc'])
 # run the learning rate finder
 find_lr = args.lr_find
 if find_lr:
-    from utils.learningratefinder import LearningRateFinder
+    from utils.lr_find import LearningRateFinder
     import sys
     lrf = LearningRateFinder(model, stopFactor=5)
     lrf.find([x_train, y_train],
