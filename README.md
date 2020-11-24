@@ -44,9 +44,7 @@ and our results for noise rejection are:
 
 I've not yet finished updating this repository with _all_ the code to replicate the experiments. Stuff that's currently missing / on my todo list is:
 
-- Upload cross-validation code for RNN-WDCNN
-- Upload training and validation code for WDCNN
-- Upload training and validation code for SRDCNN
+- Tidy up and upload CLR callbacks
 - Upload trained weights
 - Upload code for results processing
 
