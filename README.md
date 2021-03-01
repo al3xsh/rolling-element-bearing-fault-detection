@@ -44,7 +44,7 @@ and our results for noise rejection are:
 
 I've not yet finished updating this repository with _all_ the code to replicate the experiments. Stuff that's currently missing / on my todo list is:
 
-- Tidy up and upload CLR callbacks
+- ~~Tidy up and upload CLR callbacks~~
 - Upload trained weights
 - Upload code for results processing
 
