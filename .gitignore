@@ -6,7 +6,7 @@
 .spyproject/
 
 # ignore raw training data (too big for github anyway!)
-data/
+data/**/
 
 # ignore big files
 **/*.mat
